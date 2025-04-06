@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cifra de César</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <section class="container">
+            <h1>Cifra de César</h1>
+            <div class="inputs">
+                <label for="mensagem">Mensagem:</label>
+                <input type="text" id="mensagem" placeholder="Mensagem" aria-label="Mensagem a ser criptografada/descriptografada" autocomplete="off">
+                
+                <label for="posicao">Posições:</label>
+                <input type="text" id="posicao" placeholder="Posições" aria-label="Número de posições da cifra">
+            </div>
+            <button id="cript">Criptografar</button>
+            <button id="descript">Descriptografar</button>
+        </section>
+    </main>
+
+    <div id="resposta"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
