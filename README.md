@@ -7,7 +7,7 @@ Este é um projeto simples em HTML, CSS e JavaScript que implementa a **Cifra de
 - Interface clara e intuitiva.
 
 ## 🚀 Como usar
-1. Acesse esse [link]([link](https://nicollas-provatti.github.io/Cifra-de-Cesar/)) ou baixe o repositório e abra o arquivo `index.html` em qualquer navegador.
+1. Acesse esse [link](https://nicollas-provatti.github.io/Cifra-de-Cesar/) ou baixe o repositório e abra o arquivo `index.html` em qualquer navegador.
 2. Digite uma mensagem no campo Mensagem.
 3. Informe o número de posições para a cifra no campo Posições.
 4. Clique em Criptografar ou Descriptografar.
