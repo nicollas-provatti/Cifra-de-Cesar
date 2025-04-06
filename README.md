@@ -13,7 +13,7 @@ Este é um projeto simples em HTML, CSS e JavaScript que implementa a **Cifra de
 4. Clique em Criptografar ou Descriptografar.
 5. O resultado aparecerá abaixo dos botões.
 
-6. ## 📌 Tecnologias Utilizadas
+## 📌 Tecnologias Utilizadas
 - HTML5
 - CSS3
 - JavaScript
